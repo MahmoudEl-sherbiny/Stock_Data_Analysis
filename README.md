@@ -6,7 +6,7 @@ This report presents a visual analysis of historical share prices and revenues f
 
 ## 🚘 Tesla (TSLA)
 
-![Tesla Historical Data](./)
+![Tesla Historical Data](./TSLA.png)
 - **Stock Price:** Tesla’s share price saw modest growth until around 2019, followed by a sharp surge in 2020–2021. The price reached its peak in late 2021 before becoming volatile through 2024–2025.
 - **Revenue:** Revenue steadily increased starting in 2018 and continued rising sharply, reflecting strong business performance and expansion.
 
@@ -16,7 +16,7 @@ This report presents a visual analysis of historical share prices and revenues f
 
 ## 🕹️ GameStop (GME)
 
-![GameStop Historical Data](./)
+![GameStop Historical Data](./GME.png)
 
 - **Stock Price:** GameStop's stock was relatively flat until early 2021, when it experienced a highly publicized and dramatic short squeeze, briefly soaring above $80.
 - **Revenue:** Revenue peaked between 2008–2014 and has been declining since, with notable seasonality tied to retail sales.
